@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArraysCodility/ArraysCodility.iml" filepath="$PROJECT_DIR$/ArraysCodility/ArraysCodility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS50/CS50.iml" filepath="$PROJECT_DIR$/CS50/CS50.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChocolatesByNumbers/ChocolatesByNumbers.iml" filepath="$PROJECT_DIR$/ChocolatesByNumbers/ChocolatesByNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CountingElements/CountingElements.iml" filepath="$PROJECT_DIR$/CountingElements/CountingElements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CterpillarMethod/CterpillarMethod.iml" filepath="$PROJECT_DIR$/CterpillarMethod/CterpillarMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DivCount/DivCount.iml" filepath="$PROJECT_DIR$/DivCount/DivCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EuclideanAlgorithm/EuclideanAlgorithm.iml" filepath="$PROJECT_DIR$/EuclideanAlgorithm/EuclideanAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fish/Fish.iml" filepath="$PROJECT_DIR$/Fish/Fish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrogRiverOne/FrogRiverOne.iml" filepath="$PROJECT_DIR$/FrogRiverOne/FrogRiverOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreedyAlgorithms/GreedyAlgorithms.iml" filepath="$PROJECT_DIR$/GreedyAlgorithms/GreedyAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leader/Leader.iml" filepath="$PROJECT_DIR$/Leader/Leader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaximumSlice/MaximumSlice.iml" filepath="$PROJECT_DIR$/MaximumSlice/MaximumSlice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PermMissingElem/PermMissingElem.iml" filepath="$PROJECT_DIR$/PermMissingElem/PermMissingElem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrefixSums/PrefixSums.iml" filepath="$PROJECT_DIR$/PrefixSums/PrefixSums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeAndComposite/PrimeAndComposite.iml" filepath="$PROJECT_DIR$/PrimeAndComposite/PrimeAndComposite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShellSort/ShellSort.iml" filepath="$PROJECT_DIR$/ShellSort/ShellSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/SortAlgorithms.iml" filepath="$PROJECT_DIR$/SortAlgorithms/SortAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingDiscIntersection/SortingDiscIntersection.iml" filepath="$PROJECT_DIR$/SortingDiscIntersection/SortingDiscIntersection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StacksAndQueues/StacksAndQueues.iml" filepath="$PROJECT_DIR$/StacksAndQueues/StacksAndQueues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Equilibrium/TapeEquilibrium.iml" filepath="$PROJECT_DIR$/Equilibrium/TapeEquilibrium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeComplexity/TimeComplexity.iml" filepath="$PROJECT_DIR$/TimeComplexity/TimeComplexity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UdemyCodilityInterview.iml" filepath="$PROJECT_DIR$/.idea/UdemyCodilityInterview.iml" />
+    </modules>
+  </component>
+</project>
